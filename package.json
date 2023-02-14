@@ -1,0 +1,22 @@
+{
+  "name": "svelte-g2plot-pie",
+  "version": "0.0.3",
+  "description": "A Svelte Pie Chart component based on @AntV/G2Plot",
+  "main": "Pie.svelte",
+  "svelte": "Pie.svelte",
+  "types": "Pie.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "g2plot",
+    "svelte",
+    "pie-chart"
+  ],
+  "author": "gonwe",
+  "license": "ISC",
+  "devDependencies": {
+    "@antv/g2plot": "^2.4.25",
+    "svelte": "^3.55.1"
+  }
+}
